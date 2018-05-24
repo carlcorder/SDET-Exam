@@ -20,6 +20,6 @@ See src/test/java/sample/SampleTest.java for an example of how to use an externa
 
 ### How to
 
-Simply execute ```mvn clean test``` from the root of the project directory, or run from within your IDE.
+Simply execute ```mvn clean test``` from the root of the project directory or run from within your IDE.
 
 ### Test Requirements can be found [here](http://training.xpxcloud.com/moodle/course/view.php?id=111).
