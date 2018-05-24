@@ -1,5 +1,7 @@
 # Xpanxion Entry Level SDET Examination
 
+![xpanxion](https://www.xpanxion.com/img/logo.png)
+
 ## A Java Selenium Framework used for writting tests against [xpanxion.com](http://www.xpanxion.com/)
 
 * This project uses a [Webdriver Manager](https://github.com/bonigarcia/webdrivermanager) so you don't have to
